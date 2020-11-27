@@ -1,2 +1,2 @@
-# navid-shop
-Shopping system based on django
+# Navid shop
+Navid is a shopping system based on Django. 
